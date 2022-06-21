@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![alt text](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png)
 
-<img src="https://your-image-url.type" width="100" height="100">
+<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" width="100" height="100">
 

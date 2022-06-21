@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" width="100" height="100">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="100" height="100">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-128.png" width="100" height="100">
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" width="100" height="100">
+<img src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/typescript-128.png" width="100" height="100">

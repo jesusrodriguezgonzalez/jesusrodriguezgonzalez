@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![alt text](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png)
 
-https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png
+

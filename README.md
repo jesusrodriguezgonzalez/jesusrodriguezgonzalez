@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 
 <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" width="100" height="100">
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" width="100" height="100">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="100" height="100">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-128.png" width="100" height="100">
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" width="100" height="100">

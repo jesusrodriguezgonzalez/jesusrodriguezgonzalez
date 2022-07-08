@@ -1,6 +1,6 @@
 ## Hi there 👋, I´m Jesús Rodriguéz <br><br>
 
-### I'm a frontend from , I'm passionate on creating technology to elevate people, and building community. Some technologies I enjoy working as a team under the latest technologies, such as React <br/><br>
+### I'm a frontend from Granada. I'm passionate aboout creating technology to elevate people, and building community. I enjoy collaborating with people and working in a team using the latest technologies. <br/><br>
 
 -   🌱 I’m currently learning Angular and React Native
 

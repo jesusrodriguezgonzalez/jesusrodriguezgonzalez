@@ -2,7 +2,7 @@
 
 ### I'm a frontend from Granada. I'm passionate aboout creating technology to elevate people, and building community. I enjoy collaborating with people and working in a team using the latest technologies. <br/><br>
 
--   🌱 I’m currently learning Angular and React Native
+-   🌱 I’m currently learning Python
 
 -   💬 Ask me about Tecnology
 
